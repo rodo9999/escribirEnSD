@@ -17,8 +17,7 @@
 	
 	<preference name="AndroidPersistentFileLocation" value="Compatibility" />
 	
-	<icon src = "icon.png"/>
-
+	
 <plugin name="cordova-plugin-file" spec="~4.3.3" />
 </widget>
 
