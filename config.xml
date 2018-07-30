@@ -19,6 +19,6 @@
 	
 	<icon src = "icon.png"/>
 
-<plugin name="cordova-plugin-file" spec="~6.0.1" />
+<plugin name="cordova-plugin-file" spec="~4.3.3" />
 </widget>
 
